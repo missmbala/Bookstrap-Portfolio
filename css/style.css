@@ -1,13 +1,29 @@
 * {
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 .jumbotron {
     background-image: url(https://images.pexels.com/photos/4467136/pexels-photo-4467136.jpeg);
     margin: 20px;
 }
+.skills-paragraph {
+    margin: 3%;
+    text-emphasis-style: bolder;
+}
 
+h2 {
+    padding: 2%;
+}
+
+.contact {
+    padding: 2%;
+    text-align: center;
+    color: black;
+}
+
+.phone {
+    list-style: none;
+}
 footer {
     text-align: center;
 }
